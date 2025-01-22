@@ -1,6 +1,6 @@
 # React Chrome Extension Template
 
-This is a template for creating a Chrome extension using React and [Vite](https://vitejs.dev/) with TypeScript.
+This is a template for creating a Chrome extension using React and [Vite](https://vitejs.dev/) with TypeScript
 
 
 ## Getting Started
