@@ -7,7 +7,7 @@ This is a template for creating a Chrome extension using React and [Vite](https:
 
 ### Prerequisites
 
-Make sure you have [Node.js](https://nodejs.org/) (version 18+ or 20+) installed on your machine.
+Make sure you have [Node.js](https://nodejs.org/) (version 18+ or 20+) installed on your machine.12345
 
 ### Setup
 
